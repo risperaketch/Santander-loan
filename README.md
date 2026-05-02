@@ -13,9 +13,8 @@
 5. [Figures and Business Findings](#5-figures-and-business-findings)
 6. [Model Results Tables](#6-model-results-tables)
 7. [Recommendation](#7-recommendation)
-8. [Bugs Fixed](#8-bugs-fixed)
-9. [Tech Stack](#9-tech-stack)
-10. [How to Run](#10-how-to-run)
+8. [Tech Stack](#9-tech-stack)
+9. [How to Run](#10-how-to-run)
 
 ---
 
